@@ -1,4 +1,6 @@
+# First step to creating slither for vyper 
 # vyper-parser
+
 
 import ply.lex as lex
 import ply.yacc as yacc
